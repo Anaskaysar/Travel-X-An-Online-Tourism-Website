@@ -1,0 +1,76 @@
+[
+    {
+    "title": "Amalfi Costa Itali",
+    "details": "The Amalfi Coast is a 50-kilometer stretch of coastline along the southern edge of Italy’s Sorrentine Peninsula, in the Campania region. It’s a popular holiday destination, with sheer cliffs and a rugged shoreline dotted with small beaches and pastel-colored fishing villages. The coastal road between the port city of Salerno and clifftop Sorrento winds past grand villas, terraced vineyards and cliffside lemon groves",
+    "address":"84011 Amalfi, Province of Salerno, Italy",
+    "duration":"5 days /6 Night",
+    "Rating":"8k+",
+    "price":300,
+    "image":"https://i.ibb.co/7v4kd1p/Amalfi-Costa-Itali.png",
+    "Discount":"available"
+    },
+    {
+    "id": "S2",
+    "title": "French Riveria",
+    "details": "The French Riviera (or Côte d'Azur) is the Mediterranean coast of southeastern France. It includes famously glamorous beach resorts such as Saint-Tropez and Cannes, and the independent microstate of Monaco. A health retreat in the 18th century, the area later attracted aristocrats, artists and the 1960s jet set. Today it’s an established holiday destination, with paths connecting many coastal villages and towns.",
+    "address":"Franch",
+    "duration":"5 days /6 Night",
+    "Rating":"8k+",
+    "price":300,
+    "image": "https://i.ibb.co/8P4px60/French-Riveria.png",
+     "Discount":"available"
+    },
+    {
+    "id": "S3",
+    "title": "Lake Geneva",
+    "details": "Lake Geneva is a resort city on Geneva Lake in southeastern Wisconsin. The lakeside Shore Path is dotted with Gilded Age mansions, many built by wealthy Chicagoans. Nearby, the 19th-century Black Point Estate and Gardens was the summer home of Chicago beer magnate Conrad Seipp. The Queen Anne–style house has Victorian furnishings. Local beaches include Big Foot Beach State Park, which has trails and picnic areas.",
+    "address":"Wisconsin",
+    "duration":"5 days /6 Night",
+    "Rating":"8k+",
+    "price":180,
+    "image": "https://i.ibb.co/MZJSBh6/lake-Geneva.png",
+    "Discount":"available"
+    },
+    {
+    "id": "S4",
+    "title": "Lake Garda, Italy",
+    "details":"Lake Garda, in northern Italy, is known for its crystal clear water. At the south end, the town of Sirmione is dominated by the Rocca Scaligera, a fortress with harbor views. The nearby Grotte di Catullo archaeological site includes a Roman villa. On the lake's western shore, in Gardone Riviera, is Il Vittoriale degli Italiani, former home of poet d’Annunzio. The Dolomites frame Riva del Garda, a resort in the north.",
+    "address":"Italy",
+    "duration":"5 days /6 Night",
+    "Rating":"8k+",
+    "price":280,
+    "image": "https://i.ibb.co/FYrmhhm/lake-garda-Itali.png"
+    },
+    {
+    "id": "S5",
+    "title": "Mount Datna itali",
+    "details": "TMount Etna, or Etna, is an active stratovolcano on the east coast of Sicily, Italy, in the Metropolitan City of Catania, between the cities of Messina and Catania. It lies above the convergent plate margin between the African Plate and the Eurasian Plate.",
+    "address":"Italy",
+    "duration":"5 days /6 Night",
+    "Rating":"8k+",
+    "price":120,
+    "image":"https://i.ibb.co/x8Z5VLM/Mount-Datna-itali.png"
+    },
+    {
+    "id": "S6",
+    "title": "Western Express Northbound",
+    "details": "Start in Los Angeles and end in San Francisco! With the Adventure tour Western Express Northbound, you have a 8 days tour package taking you through Los Angeles, USA and 7 other destinations in USA. Western Express Northbound includes accommodation in a hotel as well as an expert guide, meals, transport and more.",
+    "address":"America",
+    "duration":"5 days /6 Night",
+    "Rating":"8k+",
+    "price":150,
+    "image": "https://i.ibb.co/v3LPZSQ/Western-Express-Northbound.png"
+
+    },
+    {
+    "id": "S7",
+    "title": "Paris Hill Tour",
+    "details": "Start in Los Angeles and end in San Francisco! With the Adventure tour Western Express Northbound, you have a 8 days tour package taking you through Los Angeles, USA and 7 other destinations in USA. Western Express Northbound includes accommodation in a hotel as well as an expert guide, meals, transport and more.",
+    "address":"France",
+    "duration":"5 days /6 Night",
+    "Rating":"8k+",
+    "price":250,
+    "image": "https://i.ibb.co/pZY9jZm/paris.jpg"
+
+    }
+]

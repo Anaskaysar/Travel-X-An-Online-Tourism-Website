@@ -1,0 +1,53 @@
+[
+    {
+        "name":"Dina Jems",
+        "profession":"Traveller",
+        "Review":"TravelX & the team were very fast and efficient in responding to any emails and also with updating me with my travel itinerary, etc. Loved being able yo book everything in the one place, in one transaction. I will most definitely be using Travel Online for my holiday bookings again in the future!",
+        "Rating":"5",
+        "date":"02-02-2021",
+        "img":"https://i.ibb.co/8M8nwJD/cu2.png"
+    },
+    {
+        "name":" Ivan Menezes",
+        "profession":"Traveller",
+        "Review":"I love the way you guys are always very helpful and accomodating. Your service is excellent and I am more than happy to use your organisation for all future holidays.",
+        "Rating":"5",
+        "date":"01-01-2020",
+        "img":"https://i.ibb.co/pXrXYrd/dina.png"
+    },
+    {
+        "name":"John Dignam",
+        "profession":"Traveller",
+        "Review":"I found your service very good in the holiday acquisition process but lacking in the quality of the accommodation.!",
+        "Rating":"5",
+        "date":"13-02-2020",
+        "img":"https://i.ibb.co/FqN2z36/reviewer-3-21d99f5c.png"
+    },
+    {
+        "name":"Barbara Batley",
+        "profession":"Traveller",
+        "Review":"Everything went smoothly and we were very happy with the whole experience.",
+        "Rating":"5",
+        "date":"04-02-2019",
+        "img":"https://i.ibb.co/FqN2z36/reviewer-3-21d99f5c.png"
+    },
+    {
+        "name":"Dina Jems",
+        "profession":"Traveller",
+        "Review":"We were very happy with our holiday booking and our accommodation. We would book with TravelOnline again and definitely recommend their services to others.",
+        "Rating":"5",
+        "date":"30-02-2021",
+        "img":"https://i.ibb.co/FqN2z36/reviewer-3-21d99f5c.png"
+    },
+    {
+        "name":"Dina Jems",
+        "profession":"Traveller",
+        "Review":"Our booking was very easy to do online, I needed to make a few changes that I felt was not handled well at all.Once I spoke to the Team Manager,he was absolutely amazing. Couldn't do enough to sort our issue out. Went way above a 5 star service. More then happy to use snd recommend this company.",
+        "Rating":"5",
+        "date":"05-05-2021",
+        "img":"https://i.ibb.co/8M8nwJD/cu2.png"
+    }
+]
+
+
+

@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@500&display=swap');
+
+
+.all-text{
+    font-family: 'Quicksand', sans-serif;
+    font-weight: bold;
+}
+
+.whyus-container{
+    background-image:url(../../assets/achiv-shape.png);
+} 
+.bg-box{
+    background-color: #304F47;
+    padding: 20px;
+    text-align: center;
+   
+}
+.bg-box img{
+    width: 82px;
+    height:82px;
+    margin-left: 100px;
+}
+
+

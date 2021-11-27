@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@500&display=swap');
+
+
+.best-packages{
+    font-family: 'Quicksand', sans-serif;
+    font-weight: bold;
+}
+.best-packages h4{
+    color:#ff5534;
+}

@@ -1,0 +1,21 @@
+.App {
+    font-family: sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 10PX;
+    
+  }
+
+  .card-image{
+    height: 114px;
+    width: 114px;
+    border-radius: 50%;
+    border:8px solid rgb(48,79,71,.1);
+    margin: auto;
+
+  }
+
+ 
+
+

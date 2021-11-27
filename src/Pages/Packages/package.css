@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@500&display=swap');
+
+.card-container{
+    width: 90%;
+    height: auto;
+    margin-left:50px ;
+    margin-bottom: 20px;
+}
+
+.card-imagep{
+    width: 200px;
+    height: 200px;
+}
+
+.card-title{
+    font-family: 'Quicksand', sans-serif;
+    font-weight: bold;
+}
+
+.signature-color{
+        color:#ff5534;  
+}
+
+.packages-banner{
+    background: linear-gradient(rgba(0,0,0,.65) 100%,rgba(0,0,0,.65) 0),url(../../assets/bg-package.png);
+    height: 220px;
+    font-family: 'Quicksand', sans-serif;
+    font-weight: bold;
+}
+
+.packages-banner h4{
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 50px;
+    margin-bottom: 25px;
+    color:white;
+    margin-top: 5px;
+    padding-left: 550px;
+    padding-top: 70px;
+}
+
+
+.booknow-btn{
+	width:140px;
+	height: 40px;
+    font-size: 1rem;
+    background-color: #ff5534;
+    box-shadow: 5px 10px 30px rgba(255, 2, 2, 0.336);
+    border-radius: 5px;
+	color:#fff2f2;
+    font-family:"Lato";
+}
+.booknow-btn:hover{
+	background-color: rgb(107, 45, 45);
+    transition: all ease 0.5s;
+    color: #ffffff;
+    border: 2px solid #ff5534;
+}
+
+.buttons{
+    display: flex;
+    flex-direction: column;
+}
