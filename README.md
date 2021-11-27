@@ -2,6 +2,17 @@
 
 [Welcome To TravelX Website](https://travelx-react.web.app/).
 
+## 🛠 Technology Stack
+
+- Language: JavaScript
+- Frontend Library: React.JS
+- State Management: Context API
+- UI Component: Tailwind CSS
+- Web Server: Node.JS
+- Backend Framework: Express.JS
+- Database: MongoDB
+- CI/CD: Github, Heroku, Firebase.
+
 # Travel Website
 
 The world is a beautiful place. People want to travel the world with their own. But, due to lack of knowledge and guidance they can't do that properly. With our help they can move through out the world easily.
